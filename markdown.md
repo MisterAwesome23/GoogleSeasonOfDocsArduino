@@ -51,8 +51,8 @@ Questions before proceeding with assigned tasks:</br>
 
 </br>
 </br>
-*Note:* <i>
-I created this document as my very first markdown page under experiment, explorations and demonstration of my quick learning skills. This is my first interaction with the organisation so I apologise in advance if I have inadvertently violated any style guidelines and will happily rectify any issues.  <i>
+<i>Note: 
+I created this document as my very first markdown page under experiment, explorations and demonstration of my quick learning skills. This is my first interaction with the organisation so I apologise in advance if I have inadvertently violated any style guidelines and will happily rectify any issues.  </i>
 
 
 
